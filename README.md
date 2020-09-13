@@ -32,4 +32,8 @@
       2. 
   - DDD
       1. [Basics](https://www.confluent.io/blog/microservices-apache-kafka-domain-driven-design/)
-  
+      
+### Other Good repositories
+1. https://github.com/madd86/awesome-system-design
+2. https://nocomplexity.com/documents/arplaybook/index.html
+3. 
