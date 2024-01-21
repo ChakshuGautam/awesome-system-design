@@ -32,16 +32,7 @@
       2. 
   - DDD
       1. [Basics](https://www.confluent.io/blog/microservices-apache-kafka-domain-driven-design/)
-   
-### Books (Tech)
-1. [The Architecture of Open Source Applications](https://aosabook.org/en/)
-2. [Software Design by Example - Python](https://third-bit.com/sdxpy/)
-3. [Software Design by Example - JavaScript](https://third-bit.com/sdxjs/)
 
-### Books (Misc)
-1. [Teaching Tech Together](https://teachtogether.tech/en/index.html)
-2. [JavaScript for Data Science](https://third-bit.com/js4ds/)
-3. 
 
 ### Videos
 1. [It Will Never Work in Theory](https://neverworkintheory.org/)

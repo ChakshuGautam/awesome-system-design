@@ -1,0 +1,2 @@
+1. [Monographs in Computer Science](https://doc.lagout.org/science/0_Computer%20Science/4_Theory%20of%20Computation/Compiler%20Design/Parsing%20Techniques%20-%20A%20Practical%20Guide%2C%202nd%20Edition.pdf)
+2. 
