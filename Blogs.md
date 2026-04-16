@@ -47,7 +47,7 @@
 ## Software Engineering / Essays
 31. [Paul Graham](https://paulgraham.com/articles.html) — Lisp, startups, essays on programming taste
 32. [Joel Spolsky](https://www.joelonsoftware.com/) — classic software engineering, Stack Overflow co-founder
-33. [Steve Yegge](https://steve-yegge.blogspot.com/) — famous rants, language comparisons, software philosophy
+33. [Steve Yegge](https://steve-yegge.medium.com/) — famous rants, language comparisons, software philosophy ([old blog](https://steve-yegge.blogspot.com/))
 
 ## Polymaths / Long-form
 34. [Gwern](https://gwern.net/) — AI, statistics, technology, long-form research
