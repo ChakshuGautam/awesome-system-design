@@ -1,36 +1,38 @@
 # Blogs
 
+## Foundational
+1. [Douglas Crockford](https://www.crockford.com/)
+2. [Eli Bendersky](https://eli.thegreenplace.net/), [GitHub](https://github.com/eliben)
+3. [Peter Norvig](https://norvig.com/)
+
 ## Language Designers / Pioneers
-1. [Douglas Crockford](https://www.crockford.com/) — JavaScript, language design philosophy
-2. [Rob Pike](https://commandcenter.blogspot.com/) — Go co-creator, Plan 9, Unix
-3. [Guido van Rossum](https://neopythonic.blogspot.com/) — Python creator, PEG parser series
-4. [Simon Peyton Jones](https://simon.peytonjones.org/) — Haskell, GHC, functional programming
-5. [Bjarne Stroustrup](https://www.stroustrup.com/) — C++ creator, language design
+4. [Rob Pike](https://commandcenter.blogspot.com/) — Go co-creator, Plan 9, Unix
+5. [Guido van Rossum](https://neopythonic.blogspot.com/) — Python creator, PEG parser series
+6. [Simon Peyton Jones](https://simon.peytonjones.org/) — Haskell, GHC, functional programming
+7. [Bjarne Stroustrup](https://www.stroustrup.com/) — C++ creator, language design
 
 ## Systems / Distributed Systems
-6. [Leslie Lamport](https://lamport.azurewebsites.net/) — TLA+, Paxos, Time Clocks
-7. [Butler Lampson](https://bwlampson.site/) — "Hints for Computer System Design", Turing Award
-8. [Werner Vogels](https://www.allthingsdistributed.com/) — Amazon CTO, distributed systems at scale
-9. [Martin Kleppmann](https://martin.kleppmann.com/) — DDIA author, CRDTs, distributed systems
-10. [Marc Brooker](https://brooker.co.za/blog/) — AWS, distributed systems, formal reasoning
+8. [Leslie Lamport](https://lamport.azurewebsites.net/) — TLA+, Paxos, Time Clocks
+9. [Butler Lampson](https://bwlampson.site/) — "Hints for Computer System Design", Turing Award
+10. [Werner Vogels](https://www.allthingsdistributed.com/) — Amazon CTO, distributed systems at scale
+11. [Martin Kleppmann](https://martin.kleppmann.com/) — DDIA author, CRDTs, distributed systems
+12. [Marc Brooker](https://brooker.co.za/blog/) — AWS, distributed systems, formal reasoning
 
 ## Systems / Performance
-11. [Dan Luu](https://danluu.com/) — hardware/software boundary, performance myths, contrarian takes backed by data
-12. [Julia Evans](https://jvns.ca/) — systems, networking, debugging
-13. [Antirez](http://antirez.com/) — Salvatore Sanfilippo (Redis creator), algorithms, data structures
-14. [Brendan Gregg](https://www.brendangregg.com/) — performance analysis, tracing, flame graphs
-15. [Rachel by the Bay](https://rachelbythebay.com/) — systems reliability war stories
-16. [John Carmack](https://www.facebook.com/permalink.php?story_fbid=2110408722526967&id=100006735798590) — dense systems wisdom (scattered across FB/X)
+13. [Dan Luu](https://danluu.com/) — hardware/software boundary, performance myths, contrarian takes backed by data
+14. [Julia Evans](https://jvns.ca/) — systems, networking, debugging
+15. [Antirez](http://antirez.com/) — Salvatore Sanfilippo (Redis creator), algorithms, data structures
+16. [Brendan Gregg](https://www.brendangregg.com/) — performance analysis, tracing, flame graphs
+17. [Rachel by the Bay](https://rachelbythebay.com/) — systems reliability war stories
+18. [John Carmack](https://www.facebook.com/permalink.php?story_fbid=2110408722526967&id=100006735798590) — dense systems wisdom (scattered across FB/X)
 
 ## Programming Languages / Compilers
-17. [Eli Bendersky](https://eli.thegreenplace.net/), [GitHub](https://github.com/eliben) — compilers, parsing, Go, Python internals
-18. [Bob Nystrom](https://journal.stuffwithstuff.com/) — Crafting Interpreters author, language design
-19. [Russ Cox](https://research.swtch.com/) — Go team, regex engines, systems
-20. [matklad](https://matklad.github.io/) — rust-analyzer author, IDE internals, Rust
-21. [Laurence Tratt](https://tratt.net/laurie/) — programming languages, VMs
+19. [Bob Nystrom](https://journal.stuffwithstuff.com/) — Crafting Interpreters author, language design
+20. [Russ Cox](https://research.swtch.com/) — Go team, regex engines, systems
+21. [matklad](https://matklad.github.io/) — rust-analyzer author, IDE internals, Rust
+22. [Laurence Tratt](https://tratt.net/laurie/) — programming languages, VMs
 
 ## CS / Algorithms / Theory
-22. [Peter Norvig](https://norvig.com/) — AI, algorithms, clear technical writing
 23. [Donald Knuth](https://cs.stanford.edu/~knuth/) — TAOCP, literate programming, TeX
 24. [Dijkstra (EWD manuscripts)](https://www.cs.utexas.edu/~EWD/) — 1300+ handwritten notes
 25. [Scott Aaronson](https://scottaaronson.blog/) — complexity theory, quantum computing
